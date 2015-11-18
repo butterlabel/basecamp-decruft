@@ -1,0 +1,7 @@
+li.topnav-menu[data-menu-section="pings"],
+li.topnav-menu[data-menu-section="chats"],
+.thread-entry__metadata__applaud,
+.thread-entry__applause,
+.recordable__applause {
+    display: none;
+}
