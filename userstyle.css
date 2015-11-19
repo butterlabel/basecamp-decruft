@@ -15,3 +15,16 @@ li.topnav-menu[data-menu-section="chats"],
 .recordable {
     box-shadow: none;
 }
+
+// Remove to-do form mintiness
+
+.todos-form {
+    background: #FFFFFF;
+    border-color: #3cb371;
+    border-width: 3px;
+    margin: 1rem 0rem 1.5rem 0rem;
+}
+
+.todos-form--todo {
+    padding: 1.5rem 2.5rem;
+}
