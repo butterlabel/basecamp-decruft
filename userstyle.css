@@ -1,5 +1,5 @@
-// Remove non-essential navigation links
-// Remove applause silliness
+/* Remove non-essential navigation links */
+/* Remove applause silliness             */
 
 li.topnav-menu[data-menu-section="pings"],
 li.topnav-menu[data-menu-section="chats"],
@@ -9,14 +9,14 @@ li.topnav-menu[data-menu-section="chats"],
     display: none;
 }
 
-// Remove superfluous drop shadows
+/* Remove superfluous drop shadows */
 
 .dock-card,
 .recordable {
     box-shadow: none;
 }
 
-// Remove to-do form mintiness
+/* Remove to-do form ugliness */
 
 .todos-form {
     background: #FFFFFF;
